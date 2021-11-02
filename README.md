@@ -1,3 +1,4 @@
+<center><img src="https://github.com/shivam2906/Step-by-Step-Exploratory-Data-Analysis/blob/main/eda.png" width="750" height="400"></center>
 <h1>Step-by-Step Exploratory Data Analysis</h1>
 <b>EDA</b> is a technique primarily used to see what data can reveal the hidden story and provides a better understanding of dataset variables and the relationships between them.
 
